@@ -11,8 +11,12 @@
             "google": null,
             "twitter": null,
             "weibo": null
+        },
+        "sidebar": {
+            
         }
     },
+	"output": "book-end",
     "pdf": {
         "fontSize": 12,
         "footerTemplate": null,
